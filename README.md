@@ -2,7 +2,7 @@
 
 <a href="https://tinyurl.com/senselysdk"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
-The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate custom avatar technology and conversational content in your iOS app. Start using the SDK today to leverage the power of conversational language interfaces. The avatar supports both voice and text options, allowing you to intelligently communicate with your patient and insurance plan member populations.
+The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate custom avatar technology and conversational content in your desktop or web app. Start using the SDK today to leverage the power of conversational language interfaces. The avatar supports both voice and text options, allowing you to intelligently communicate with your patient and insurance plan member populations.
 
 ## Technical overview
 
@@ -10,10 +10,10 @@ The Sensely Web SDK can be embedded in an existing desktop website or mobile web
 
 * The SDK can run in anonymous mode (no unique user, Sensely does not store responses) or with an authenticated user.
 * The partner app activates the Sensely UI and begin the conversation experience:
-    * The user proceeds through the conversation by interacting with the Sensely UI which generally takes up the full screen inside the app.
+    * The user proceeds through the conversation by interacting with the Sensely UI.
     * During the conversation, the sensely conversation engine will direct a user through a flow, described below.
 * Once the conversation has been completed:
-    * The results of the conversation are returned to the consuming app in JSON format. These results can also be recorded in Sensely’s backend if desired.
+    * The results of the conversation are returned in JSON format. These results can also be recorded in Sensely’s backend if desired.
 
 ## Integration with Mayo Clinic symptom assessment tool
 
@@ -25,7 +25,7 @@ In addition to symptom checker interactions, partners are able to build other co
 
 ### Supported Browsers
 - Desktop: Google Chrome, Mozilla Firefox
-- Mobile: Safari, 
+- Mobile: iOS (Safari, Web Views), Android, WeChat
 
 <a href="https://tinyurl.com/senselysdk"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
