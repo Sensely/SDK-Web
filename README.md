@@ -4,6 +4,10 @@
 
 The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate custom avatar technology and conversational content in your desktop or web app. Start using the SDK today to leverage the power of conversational language interfaces. The avatar supports both voice and text options, allowing you to intelligently communicate with your patient and insurance plan member populations.
 
+## Try it out
+* SDK (Mobile or Desktop): https://clinician-web.sense.ly/
+* SDK embedded in a drawer (common Desktop implementaiton) : https://clinician-web.sense.ly/nhs/
+
 ## Technical overview
 
 The Sensely Web SDK can be embedded in an existing desktop website or mobile web application. When calling the SDK, the partner app will get a conversation flow (e.g. mayo symptom checker). Here is an overview of the integration:
