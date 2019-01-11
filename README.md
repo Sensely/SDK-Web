@@ -42,3 +42,7 @@ Integration is as easy as dropping our JavaScript div into your website.
 The Sensely SDK is released under the Sensely license. See the [LICENSE] file for more details.
 
 [LICENSE]: https://github.com/Sensely/SDK-iOS/blob/master/LICENSE
+
+## Other platforms of the Sensely SDK
+* [iOS](https://github.com/Sensely/SDK-iOS/)
+* [Android](https://github.com/Sensely/SDK-Android)
