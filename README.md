@@ -27,9 +27,10 @@ In addition to symptom checker interactions, partners are able to build other co
 
 
 ## Supported Browsers
+Integration is as easy as dropping our JavaScript div into your website. 
 - Desktop: Google Chrome, Mozilla Firefox
 - Mobile: iOS (Safari, Web Views), Android, WeChat
-Integration is as easy as dropping our JavaScript div into your website. 
+
 
 <a href="https://tinyurl.com/senselysdk"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
