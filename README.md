@@ -1,6 +1,6 @@
 # Sensely Web Conversational SDK
 
-<a href="https://tinyurl.com/senselysdk"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
+<a href="mailto:info@sensely.com"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
 The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate custom avatar technology and conversational content in your desktop or web app. Start using the SDK today to leverage the power of conversational language interfaces. The avatar supports both voice and text options, allowing you to intelligently communicate with your patient and insurance plan member populations.
 
@@ -31,7 +31,7 @@ Integration is as easy as dropping our JavaScript div into your website.
 - Desktop: Google Chrome, Mozilla Firefox
 - Mobile: iOS (Safari, Web Views), Android, WeChat
 
-<a href="https://tinyurl.com/senselysdk"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
+<a href="mailto:info@sensely.com"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
 ## Full Documentation
 
