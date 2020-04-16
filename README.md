@@ -12,7 +12,6 @@ The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate cu
 
 The Sensely Web SDK can be embedded in an existing desktop website or mobile web application. When calling the SDK, the partner app will get a conversation flow (e.g. mayo symptom checker). Here is an overview of the integration:
 
-* The SDK can run in anonymous mode (no unique user, Sensely does not store responses) or with an authenticated user.
 * The partner app activates the Sensely UI and begin the conversation experience:
     * The user proceeds through the conversation by interacting with the Sensely UI.
     * During the conversation, the sensely conversation engine will direct a user through a flow, described below.
