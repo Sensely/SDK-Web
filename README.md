@@ -6,7 +6,7 @@ The Sensely Web/JavaScript SDK is designed to allow you to easily incorporate cu
 
 ## Try it out
 * SDK (Mobile or Desktop): https://clinician-web.sense.ly/
-* SDK embedded in a drawer (common Desktop implementaiton) : https://clinician-web.sense.ly/nhs/
+* SDK embedded in a drawer (low-code implementaiton over existing site) : https://clinician-web.sense.ly/nhs/
 
 ## Technical overview
 
@@ -20,7 +20,7 @@ The Sensely Web SDK can be embedded in an existing desktop website or mobile web
 
 ## Integration with Mayo Clinic symptom assessment tool
 
-Sensely is ready to use with the Mayo Clinic symptom assessment tool in 3 languages (contact us for more languages). The introduction can be reviewed and customized with disclaimers by the partner’s team. The Mayo symptom checker also supports using the symptom checker on behalf of a 3rd party (child, other family member).
+Sensely is ready to use with the Mayo Clinic symptom assessment tool in 8 languages (contact us for more languages). The introduction can be reviewed and customized with disclaimers by the partner’s team. The Mayo symptom checker also supports using the symptom checker on behalf of a 3rd party (child, other family member).
 
 In addition to symptom checker interactions, partners are able to build other conversation interactions using either our conversation design tools or ad-hoc using a specification of the conversation definition and building the conversation programmatically. More documentation is available upon request. 
 
@@ -30,11 +30,11 @@ Integration is as easy as dropping our JavaScript div into your website.
 - Desktop: Google Chrome, Mozilla Firefox
 - Mobile: iOS (Safari, Web Views), Android, WeChat
 
-<a href="mailto:info@sensely.com"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
-
-## Full Documentation
+## Full Documentation and more details
 
   To get more details about SDK please request full documentation from Sensely.
+  
+  <a href="mailto:info@sensely.com"><img src="https://cl.ly/ca1a088639e6/request-access-button.png" alt="Request access" width="157"></a>
 
 ## Licenses
 
